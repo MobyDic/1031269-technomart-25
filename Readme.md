@@ -3,7 +3,7 @@
 * Студент: [Александр Кривцов](https://up.htmlacademy.ru/htmlcss/25/user/1031269).
 * Наставник: [Ярослав Макаренко](https://htmlacademy.ru/profile/id234926).
 
----
+--)))))))))))
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
